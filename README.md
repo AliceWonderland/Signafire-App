@@ -27,8 +27,6 @@ and Luciano (luciano@signafire.com) so that we can review it. Also if you have a
 - Display a list of messages
 - Each message object has a flag named "isStarred"; this flag should be toggleable by a button in the UI
 - You should display the number of starred messages somewhere on the page
-
-### Extra credit
 - Add a filter to show only starred or unstarred messages
 - Add a text search box that filters the list of message by a specific text query (note: this is intended to be an front-end only filter; it does not 
 need to interact with the API)
